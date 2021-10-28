@@ -6,8 +6,8 @@
 :desktop_computer:  :computer: :keyboard:
 
 ## Connect with me:<br/>
-<a href="www.linkedin.com/in/gabriel-henrique-931163181/">
-  <img align="center" alt="gabriel-linkedin" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%"/>
+<a href="https://www.linkedin.com/in/gabriel-henrique-931163181" target="_blank">
+  <img align="center" alt="gabriel-linkedin" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%">
 </a>
 
 ## My Skills
